@@ -3,4 +3,5 @@
     <string name="btn_dialog">대화상자</string>
     <string name="dialog_title">주의사항</string>
     <string name="dialog_message">대화상자 연습</string>
+    <string name="btn_positive">확인</string>
 </resources>
